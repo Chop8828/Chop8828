@@ -17,7 +17,7 @@ I am a motivated graduate student with a foundation in C, Java, MATLAB, Python, 
 - Arduino
 - STM32
 - ESP32
-- Verilog
+- Verilog / System Verilog
 - LTSpice
 - Eagle PCB Design
 - Synopsys Custom Compiler
